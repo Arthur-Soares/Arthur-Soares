@@ -1,4 +1,4 @@
-### Olá! Eu sou o Arthur Soares
+### Olá! Eu sou o Arthur Soares!
 
 <div align="center">
   <a href="https://github.com/Arthur-Soares">
