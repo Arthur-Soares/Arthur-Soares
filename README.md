@@ -9,20 +9,20 @@
 ##
 
   <div>
-       <a href="https://www.linkedin.com/in/arthur-soares-da-silva-b17084205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+       <a href="https://www.linkedin.com/in/arthur-soares-da-silva-b17084205/" target="_blank"><img align="left" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>- <b>Entra lá pra dar uma olhada!</b> 
  </div>
   
  ## 
   
   <div>
-    <img align="left" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-         <b>: ArthShirou#7928</b>
+    <img align="left" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">-
+         <b> ArthShirou#7928</b>
   </div>
   
 ##
   
   <div>
-      <img align="left" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+      <img align="left" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">-
         <b>Email para contato: Asoaresdasilva@outlook.com</b>
   </div>
   
