@@ -9,12 +9,12 @@
 ##
 
   <div>
-       <a href="https://www.linkedin.com/in/arthur-soares-da-silva-b17084205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-   badge&logo=linkedin&logoColor=white">
-        <br>
-        <img align="left" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
-        <td><b>: ArthShirou#7928</b>
-         <br><br>
-       <img align="left" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
+       <a href="https://www.linkedin.com/in/arthur-soares-da-silva-b17084205/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+     <hr> 
+    <img align="left" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">
+         <b>: ArthShirou#7928</b>
+      <hr>
+      <img align="left" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white">
         <b>Email para contato: Asoaresdasilva@outlook.com</b>
  </div>
   
